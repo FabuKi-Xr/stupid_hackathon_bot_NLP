@@ -1,2 +1,2 @@
 from bot import TranslateBot
-print(TranslateBot("build").getMsg())
+print(TranslateBot("ฉันเป็นstudent").getMsg())
